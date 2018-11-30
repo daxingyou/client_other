@@ -2434,7 +2434,7 @@ cb/59abec990df3133dbe3f569ce70199: src/app/controllers/PlaybackController.luac
 83/7efade85458a1c12ade0312b524461: src/app/controllers/SelectTrusteeshipController.luac
 bb/f7fcedf999a919850607d2c5bfc0f6: src/app/controllers/SendController.luac
 a0/94ac951c2366d3f381142513cc104b: src/app/controllers/SettingController.luac
-5d/0c50a48b91ae397f3894a8bb57ef71: src/app/controllers/ShareController.luac
+4a/bd6a5b6b04941b8e0324183caffb61: src/app/controllers/ShareController.luac
 78/a22dde552ae5c6b6b8ce3071cf6428: src/app/controllers/ShopController.luac
 0a/71eebbb0273866b137532c974052ea: src/app/controllers/SpreadController.luac
 b1/c9bc2489016fcf919605228fcb1b88: src/app/controllers/SummaryController.luac
@@ -2486,7 +2486,7 @@ dd/12d4ca7e1e91bbc61030326c8a6b6f: src/app/helpers/calcleadsoliders.luac
 e6/be4363857616785f855c71db55bde6: src/app/helpers/formatres.luac
 fa/543aeb9dae7cbe22a6ad3e9441f82a: src/app/helpers/formattime.luac
 b9/5f9c96645ebf4a756dd4031ecda845: src/app/helpers/geo.luac
-15/b1b7b5dd5be699e803fb62d0b55f64: src/app/helpers/invokefriend.luac
+a0/36bd56f2729010cafd8c804c03e49c: src/app/helpers/invokefriend.luac
 60/741b205887ad0133e7e4442bbb7907: src/app/helpers/movie.luac
 c9/938c649e911a0274d7eaab3873aff7: src/app/helpers/tools.luac
 8e/bf883365d13041cde258f2be73789c: src/app/helpers/unlocksoldier.luac
@@ -2497,7 +2497,7 @@ c1/5c7353b731535f17bfb7c971a71b9a: src/app/helpers/uploaderror.luac
 2e/8b66f3ec18b1439116d9dc85b5cf8f: src/app/libs/niuniu/NNGameLogic.luac
 dd/8cee4af1d3c564cc7b0bffea33b9c2: src/app/models/AppEvent.luac
 32/15afa8ca88869de9cb58a471891d7b: src/app/models/Group.luac
-39/21bd22070ce2e5c4ddf65bccdefa45: src/app/models/Iap.luac
+00/d51d91002011dd3b64b7e66530ee6b: src/app/models/Iap.luac
 3d/705ffb495bb9b4a4d8cac8cb6942b6: src/app/models/LocalSettings.luac
 fe/fc2ab27dcc458b95dd4a41d520521d: src/app/models/Login.luac
 7b/ebb04278e21013654b103a9efd2469: src/app/models/Net.luac
@@ -2629,7 +2629,7 @@ de/f4412b6877cdaadac7b7a38d42e7c9: src/cocos/ui/DeprecatedUIEnum.luac
 55/a24e8c4b4bf19911550a3c711b2d16: src/cocos/ui/DeprecatedUIFunc.luac
 b7/47fa7c9aeb1cd0ac4357c8779b50ae: src/cocos/ui/GuiConstants.luac
 00/adfc557489c149461318db914dd658: src/cocos/ui/experimentalUIConstants.luac
-1d/d6e60821896db660cf98e64bf38ebf: src/config.luac
+4b/5c226417081e38805c510c8ef52d8b: src/config.luac
 35/5fe343d4cbcbdc6c5c5d91977a588d: src/main.luac
 f9/cb6e028d7e11ce357ff963a560565f: src/packages/Bag.luac
 75/44082c0c2216ddaf7de9a2e1900888: src/packages/HasSignals.luac
