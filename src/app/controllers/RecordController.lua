@@ -102,8 +102,8 @@ function RecordController:clickShare()
 			end,
 			nil,
 			path,
-			'我们在快乐牛牛新年版玩嗨了，快来加入我们',
-			'快乐牛牛新年版', true)
+			'我们在快乐牛牛启航版玩嗨了，快来加入我们',
+			'快乐牛牛启航版', true)
 		end
 	end, self.view, scale)
 end 
