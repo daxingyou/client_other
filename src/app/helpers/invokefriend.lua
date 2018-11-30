@@ -27,7 +27,7 @@ function invokefriend.invoke(deskId, deskInfo,groupInfo)
 
 	
   local share_url = 'http://www.lehemiao.com/download'
-  local image_url = 'http://47.92.201.15/icon.png'
+  local image_url = 'http://47.92.199.55/icon.png'
 	
 
 	-- 分享标题
