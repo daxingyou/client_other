@@ -53,7 +53,7 @@ function NotifyView:pushNotic()
         --   color = {208,47,23}
         -- },
         {
-          text = self.annocement or '快乐牛牛启航版新版隆重上线，如果您游戏过程中遇到任何问题，请联系我们客服处理！',--客服微信号： ',
+          text = self.annocement or '快乐牛牛新年版新版隆重上线，如果您游戏过程中遇到任何问题，请联系我们客服处理！',--客服微信号： ',
           color = {255,255,255}
         },
         {
@@ -66,7 +66,7 @@ end
 
 
 function NotifyView:notify(msg)
-  self.annocement = msg.content or '快乐牛牛启航版新版隆重上线，如果您游戏过程中遇到任何问题，请联系我们客服处理！'
+  self.annocement = msg.content or '快乐牛牛新年版新版隆重上线，如果您游戏过程中遇到任何问题，请联系我们客服处理！'
   self:pushNotify(
   {
     {

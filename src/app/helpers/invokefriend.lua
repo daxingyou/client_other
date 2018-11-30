@@ -26,12 +26,12 @@ function invokefriend.invoke(deskId, deskInfo,groupInfo)
   local spStr = GameLogic.getSpecialText(deskInfo, 3, true)
 
 	
-  local share_url = 'http://nnstart.qiaozishan.com/download'
+  local share_url = 'http://www.lehemiao.com/download'
   local image_url = 'http://47.92.201.15/icon.png'
 	
 
 	-- 分享标题
-	local title = "快乐牛牛启航版【房间号：" .. deskId .. "】"
+	local title = "快乐牛牛新年版【房间号：" .. deskId .. "】"
 
 	-- 分享详情 
 	local text = string.format(" 底分：%s, %d局, %s, %s, %s", 
