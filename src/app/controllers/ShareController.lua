@@ -22,7 +22,7 @@ function ShareController:setShare(flag)
 
 	local share_url = 'www.lehemiao.com/download'
 	local image_url = 'http://47.92.199.55/icon.png'
-	local text = '我在 快乐牛牛新年版 玩嗨了，快来加入吧！'
+	local text = '我在 快乐牛牛启航班 玩嗨了，快来加入吧！'
 	local token = "0"
 	if self.groupInfo then 
 		text = text .. '俱乐部id：' .. self.groupInfo.id
@@ -33,7 +33,7 @@ function ShareController:setShare(flag)
 	share_url,
 	image_url,
 	text,
-	'快乐牛牛新年版')
+	'快乐牛牛启航班')
 end
 
 function ShareController:clickHaoYouQun()
