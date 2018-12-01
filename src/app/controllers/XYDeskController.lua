@@ -605,7 +605,7 @@ function XYDeskController:clickCopyRoomNum()
     -- 特殊牌
     local spStr = GameLogic.getSpecialText(deskInfo, 3, true)
     -- 分享标题
-	local title = "快乐牛牛启航班【房间号：" .. deskId .. "】"
+	local title = "快乐牛牛启航版【房间号：" .. deskId .. "】"
 
 	-- 分享详情 
 	local text = string.format(" 底分：%s, %d局, %s, %s, %s", 
