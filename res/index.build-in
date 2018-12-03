@@ -313,7 +313,7 @@ ab/1af611de4d08157aeb79f0f568082c: views/Certify/tx_certification1.png
 c9/2be5ee77072de7c3d6253624f46343: views/Certify/tx_certification2.plist
 ee/99de639024cf70489e4fc421ed69a1: views/Certify/tx_certification2.png
 a8/ac790c9ab7573e91d8d27db3c0d10f: views/CertifyView.csb
-9d/98343ef446bb4da1c701c236bf932d: views/ContactUsView.csb
+60/1e2aaabab13867e5c7b9fad970702c: views/ContactUsView.csb
 78/8aeb614840e0b18aa4e4df14e6737d: views/CreateRoomView.csb
 62/ee840c40d3f8defc9d735d97d463af: views/Default/Button_Disable.png
 4d/471a4c88d14cd19a86df39ab53d189: views/Default/ImageFile.png
@@ -2532,7 +2532,7 @@ cb/8e9d09e470ea226707e9d4bcb8f18a: src/app/views/DeskView.luac
 df/97d1ce22e29249e75a9ef6f6550ef5: src/app/views/GVRoomCardListView.luac
 52/16c999d38232d79ce6bbd0a33e09c0: src/app/views/GVSetScoreView.luac
 c2/5396667d87a8717f43aeeb4e4fbae4: src/app/views/GroupView.luac
-bc/ea3691da408ca0c496a21a08da19b6: src/app/views/H5ShopView.luac
+34/196a2d84768730775d84342688bafa: src/app/views/H5ShopView.luac
 25/341b03373ae1adbed2797b54b4db1e: src/app/views/HelpView.luac
 17/fa4157f51beebe12f26d909c172f85: src/app/views/KefuView.luac
 df/34d85fca5714e5373f12fd7d053cb6: src/app/views/LobbyView.luac
